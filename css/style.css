@@ -463,9 +463,9 @@ template {
   margin-bottom: 5px;
   width: 178px;
   height: 39px;
-  -webkit-box-shadow: 0 -5px goldenrod;
-          box-shadow: 0 -5px goldenrod;
-  background-color: goldenrod;
+  -webkit-box-shadow: 0 -5px darkslategray;
+          box-shadow: 0 -5px darkslategray;
+  background-color: darkslategray;
   text-align: center;
   padding-top: 2px;
   font-family: "Beast vs SpreadTall", "PT Sans", sans-serif;
@@ -497,15 +497,15 @@ template {
 }
 .main-nav__item {
   margin-top: 4px;
-  background-color: goldenrod;
-  -webkit-box-shadow: 0 5px goldenrod;
-          box-shadow: 0 5px goldenrod;
+  background-color: darkslategray;
+  -webkit-box-shadow: 0 5px darkslategray;
+          box-shadow: 0 5px darkslategray;
 }
 .main-nav__item:hover {
   margin-top: 4px;
-  background-color: coral;
-  -webkit-box-shadow: 0 5px coral;
-          box-shadow: 0 5px coral;
+  background-color: steelblue;
+  -webkit-box-shadow: 0 5px steelblue;
+          box-shadow: 0 5px steelblue;
 }
 .main-nav__item--active,
 .main-nav__item--active:hover {
@@ -537,7 +537,7 @@ template {
 .page-main__photo {
   width: 232px;
   height: 315px;
-  border: solid 5px goldenrod;
+  border: solid 5px darkslategray;
   border-top-left-radius: 38px;
   padding: 10px;
   -webkit-box-shadow: 5px 5px 20px 0 rgba(0, 0, 0, 0.4);
@@ -568,7 +568,7 @@ template {
 .page-main__right {
   width: 635px;
   padding: 10px;
-  border: solid 5px goldenrod;
+  border: solid 5px darkslategray;
   border-bottom-right-radius: 44px;
 }
 .page-main__right-inside {
@@ -596,7 +596,7 @@ template {
   text-align: center;
 }
 .page-main__text--green {
-  color: goldenrod;
+  color: darkslategray;
   font-weight: bold;
 }
 .page-footer {
@@ -622,9 +622,9 @@ template {
   display: block;
   width: 178px;
   height: 34px;
-  -webkit-box-shadow: 0 5px goldenrod;
-          box-shadow: 0 5px goldenrod;
-  background-color: goldenrod;
+  -webkit-box-shadow: 0 5px darkslategray;
+          box-shadow: 0 5px darkslategray;
+  background-color: darkslategray;
   text-align: center;
   padding-top: 7px;
   font-family: "Beast vs SpreadTall", "PT Sans", sans-serif;
@@ -654,7 +654,7 @@ template {
 .works-main__item {
   width: 400px;
   height: 200px;
-  color: goldenrod;
+  color: darkslategray;
   font-weight: bold;
   background-color: #e6e6fa;
   font-size: 20px;
@@ -668,6 +668,6 @@ template {
   border: solid 5px #003333;
   -webkit-box-shadow: 0 0 15px 1px grey;
           box-shadow: 0 0 15px 1px grey;
-  background-color: coral;
+  background-color: steelblue;
   color: #ffffff;
 }
