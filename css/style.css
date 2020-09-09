@@ -496,7 +496,7 @@ template {
   text-decoration: none;
 }
 .main-nav__item {
-  margin-top: 4px;
+  margin-top: 5px;
   background-color: darkslategray;
   -webkit-box-shadow: 0 5px darkslategray;
           box-shadow: 0 5px darkslategray;
